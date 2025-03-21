@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-![](https://imgur.com/a/ios101-prework-QdsFR38.gif)
+![](https://imgur.com/a/ios101-prework-QdsFR38)
 
 ## App Brainstorming (Step 4)
 
