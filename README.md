@@ -40,7 +40,7 @@ I want to create an app that has aspects of social media, such as Instagram or S
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+N/A
 
 ## License
 
